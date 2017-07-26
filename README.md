@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans,
+I'm just trying to figure out what this is all about.
